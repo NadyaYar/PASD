@@ -1,7 +1,5 @@
 package Lab3.lab4;
 
-import Lad2.StdDraw;
-
 public class TestingLoneLoop {
     public static void main(String[] args) {
 
