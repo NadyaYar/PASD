@@ -7,9 +7,7 @@ public class TestingLoneLoop {
                 7000, 10000 };
 
 
-
-
-     long[] expResults = testForLoops(N);
+        long[] expResults = testForLoops(N);
 
 //     long[] expResults = testingForDoubleLoop(N);
 
